@@ -1,0 +1,6 @@
+{
+  "name": "LoveMap",
+  "description": "LoveMap – Hành trình tình yêu của chúng mình. Bản đồ kỷ niệm Fog of War, đếm ngày yêu và timeline kỷ niệm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoveMap</string>
+    <string name="slogan">Mỗi nơi chúng mình đi qua, một kỷ niệm được thắp sáng.</string>
+    <string name="tagline">Hành trình tình yêu của chúng mình</string>
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_map">Bản đồ</string>
+    <string name="nav_add">Thêm</string>
+    <string name="nav_timeline">Timeline</string>
+    <string name="nav_settings">Cài đặt</string>
+</resources>
